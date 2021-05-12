@@ -1,2 +1,2 @@
 # Moving-Truck
-This simulation describes a moving truck that is to be filled with boxes, with specific limitations and assumptions.  
+This simulation describes a moving truck that is to be filled with boxes, with specific limitations and assumptions. Such as the weight, dimensions and size of truck. This could be ideal for a program that automatically filles a truck, contributing greatly to the efficiency of distribution of resources. I took a job at UPS to as a Unloader, and found that there was many safety hazards with heavy boxes being packed on top. This program could then contribute greatly to the reduction of potential workplace hazards.  
